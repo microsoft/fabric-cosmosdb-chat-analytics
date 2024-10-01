@@ -9,7 +9,8 @@ You need the following services to run this notebook.
 - [Azure CosmosDB NoSQL account](https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/quickstart-portal)
 
 You also need to upload chat_history and product catalog information to a Cosmos DB NoSQL database as separate containers. 
-- For CosmosDB mirroring, please follow the [documentation](https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db)
+- For CosmosDB mirroring, please follow the [documentation](https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db).
+- For creating a shortcut of mirrored database, please follow the [documentation](https://learn.microsoft.com/en-us/fabric/database/mirrored-database/explore-onelake-shortcut).
 
 
 ## Extracting insights
