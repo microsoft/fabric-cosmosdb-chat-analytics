@@ -32,6 +32,7 @@ The data for product catalog is found in product_catalog directory and a sample 
 2) Create Shortcuts of chat history and product catalog into the Lakehouse
 
 3) Run the analyis Notebook
+
 Navigate to the analysis_notebook directory. 
 Open the main_demo notebook and attach the lakehouse and run the notebook. 
 bonus: you may run the RAG notbebook to vectorize chat history and ask ad-hoc questions. 
